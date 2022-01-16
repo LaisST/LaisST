@@ -3,6 +3,7 @@
 - 🌱 Atualmente estudo Análise e Desenvolvimento de Sistemas 
 - 📫 Contate-me no email: laiscostast@gmail.com
 - 😄 Pronouns: ela/dela
+- 💻 laisst.github.io/perfilprofissional/
 
 <div align="center">
   <a href="https://github.com/laisst">
