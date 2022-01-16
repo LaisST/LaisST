@@ -1,4 +1,4 @@
-### Olá! 👋
+### Olá! Eu sou a Lais... 👋
 
 - 🌱 Atualmente estudo Análise e Desenvolvimento de Sistemas 
 - 📫 Contate-me no email: laiscostast@gmail.com
