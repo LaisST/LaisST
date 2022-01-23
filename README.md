@@ -2,7 +2,7 @@
 
 - 🌱 Atualmente estudo Análise e Desenvolvimento de Sistemas 
 - 📫 Contate-me no email: laiscostast@gmail.com
-- 😄 Pronouns: ela/dela
+- 😊 Pronouns: ela/dela
 <div>
   <a href="https://www.linkedin.com/in/lais-costa-santos-teixeira/" target="_blank"><img  height="30" width="40"       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" target="_blank"></a> 
     <a href="https://www.instagram.com/lais.st/" target="_blank"><img height="30" width="40" src="https://cdn-icons-png.flaticon.com/512/1409/1409946.png" target="_blank"></a>
