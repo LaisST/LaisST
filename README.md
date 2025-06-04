@@ -17,4 +17,5 @@
   
   ##
   
-   ![Snake animation](https://github.com/laisst/laisst/blob/output/github-contribution-grid-snake.svg)
+   ![Snake animation](https://github.com/laisst/laisst/output/github-contribution-grid-snake.svg)
+   
