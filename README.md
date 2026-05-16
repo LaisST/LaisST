@@ -1,7 +1,7 @@
 ### Olá! Eu sou a Lais... 👋
 
-- 💻Formada em Análise e Desenvolvimento de Sistemas
-- 🌾Analista de Aprendizagem com foco em dados na Raízen
+- 💻Formada em Análise e Desenvolvimento de Sistemas / Pós Graduada em Data Analytics
+- 🌾Analista Jr - DataViz na Raízen
 - 📩Contate-me no email: laiscostast@gmail.com
 
 <div>
